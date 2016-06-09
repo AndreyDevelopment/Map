@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="error_permission_denied">Permission was denied.</string>
+    <string name="error_address_not_found">Address is not found.</string>
+    <string name="forecast">Weather forecast for %1$s \nlow: %2$s, high: %3$s</string>
+</resources>
+
